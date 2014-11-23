@@ -1,3 +1,11 @@
+# Helper
+Useful libraries.
+
+# Installation
+```php
+composer require "sframe/helper:*"
+```
+
 # Arr
 Array helper, extended from laravel Illuminate\Support\Arr
 
